@@ -108,7 +108,7 @@ The analysis generates:
 2. Scatterplots illustrating the relationships between acceptance rate, private/public status, and tuition, with specific universities highlighted.
 
 ### Example Plot
-![Example Plot](example_plot.png)
+![Example Plot](plot.png)
 
 ## License
 This project is licensed under the MIT License.
