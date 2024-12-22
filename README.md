@@ -110,9 +110,3 @@ The analysis generates:
 ### Example Plot
 ![Example Plot](plot.png)
 
-## License
-This project is licensed under the MIT License.
-
----
-
-Feel free to use or modify this guide for your analysis!
