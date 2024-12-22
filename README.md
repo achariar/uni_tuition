@@ -94,7 +94,7 @@ ggplot(uni, aes(x = App.Rate, y = Outstate, color = Private)) +
   ) +
   theme_minimal() +
   geom_text(
-    data = subset(uni, University %in% c("University of Michigan at Ann Arbor", "Duke University", "Clemson University", "Oberlin College")),
+    data = subset(uni, University %in% c("University of Michigan at Ann Arbor", "Colorado State University", "Yale University", "Oberlin College")),
     aes(label = University),
     nudge_y = 500,
     check_overlap = TRUE,
